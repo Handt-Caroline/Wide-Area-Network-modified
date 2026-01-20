@@ -3,17 +3,15 @@
 Missing Persons Alert Network for Police Stations in Yaoundé (Nkozoa)
 
 2. Student Information
-
-
-
+3. 
 Name: Bisseck Handt Caroline Chantal Damarise
 Level: Level 3
 Course: ISN 3132 – Wide Area Networks
 Institution: ICT University
 Lecturer: Dr. Daniel Moune
+Like to the video: https://drive.google.com/file/d/1HCf6K6jdOZOvbMg2VKowf1x4D51ab2pV/view?usp=drivesdk
 
-
-3. Project Description
+4. Project Description
 
 This project is about creating a cloud-based system that helps police stations in Yaoundé, especially in Nkozoa, share information quickly when a person goes missing. The system connects police stations using a Wide Area Network (WAN) and stores all missing persons data in the cloud, so every station can access the same information in real time.
 
